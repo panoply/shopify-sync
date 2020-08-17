@@ -1,23 +1,12 @@
-config/local.js
-logs*
-_site
 sync.config.json
-yarn.lock
-
-.sass-cache
 node_modules
 bower_components
-misc
-
-.tmp
-dump.rdb
 
 lib-cov
 *.seed
 *.log
 *.out
 *.pid
-npm-debug.log
 
 
 ################################################
@@ -27,15 +16,13 @@ npm-debug.log
 # operating systems, file systems, etc.
 ################################################
 
-*~
-*#
 .DS_STORE
-.netbeans
-nbproject
-.idea
+package
 .node_history
 .shopifysync
 .shopifysync.json
+.ssrc.json
+.pnpm-lock.yaml
 example
 yarn.lock
 versions
